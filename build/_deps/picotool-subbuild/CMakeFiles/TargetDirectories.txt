@@ -1,0 +1,3 @@
+/media/data/MQ-135/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.dir
+/media/data/MQ-135/build/_deps/picotool-subbuild/CMakeFiles/edit_cache.dir
+/media/data/MQ-135/build/_deps/picotool-subbuild/CMakeFiles/rebuild_cache.dir

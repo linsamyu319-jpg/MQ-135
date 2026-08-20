@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/media/data/MQ-135/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate"
+		},
+		{
+			"file" : "/media/data/MQ-135/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.rule"
+		},
+		{
+			"file" : "/media/data/MQ-135/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete.rule"
+		},
+		{
+			"file" : "/media/data/MQ-135/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build.rule"
+		},
+		{
+			"file" : "/media/data/MQ-135/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure.rule"
+		},
+		{
+			"file" : "/media/data/MQ-135/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download.rule"
+		},
+		{
+			"file" : "/media/data/MQ-135/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install.rule"
+		},
+		{
+			"file" : "/media/data/MQ-135/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir.rule"
+		},
+		{
+			"file" : "/media/data/MQ-135/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch.rule"
+		},
+		{
+			"file" : "/media/data/MQ-135/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test.rule"
+		},
+		{
+			"file" : "/media/data/MQ-135/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotool-populate"
+		],
+		"name" : "picotool-populate"
+	}
+}

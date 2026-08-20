@@ -1,0 +1,7 @@
+/media/data/MQ-135/build/_deps/picotool/picotool
+/media/data/MQ-135/build/_deps/picotool/picotoolTargets.cmake
+/media/data/MQ-135/build/_deps/picotool/picotoolTargets-release.cmake
+/media/data/MQ-135/build/_deps/picotool/picotoolConfig.cmake
+/media/data/MQ-135/build/_deps/picotool/picotoolConfigVersion.cmake
+/media/data/MQ-135/build/_deps/picotool/enc_bootloader.elf
+/media/data/MQ-135/build/_deps/picotool/enc_bootloader_mbedtls.elf
